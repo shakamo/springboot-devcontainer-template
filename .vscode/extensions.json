@@ -1,0 +1,15 @@
+{
+    "recommendations": [
+        "vmware.vscode-boot-dev-pack",
+        "naco-siren.gradle-language",
+        "vscjava.vscode-gradle",
+        "vscjava.vscode-java-pack",
+        "vscjava.vscode-java-debug",
+        "vscjava.vscode-java-dependency",
+        "vscjava.vscode-java-test",
+        "vscjava.vscode-maven",
+        "mechatroner.rainbow-csv",
+        "adpyke.vscode-sql-formatter",
+        "bierner.markdown-mermaid"
+    ]
+}

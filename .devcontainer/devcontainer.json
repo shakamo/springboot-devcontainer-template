@@ -6,9 +6,6 @@
 	"postCreateCommand": "/bin/sh .devcontainer/postCreateCommand.sh",
 	"customizations": {
 		"vscode": {
-			"settings": {
-				"extensions.verifySignature": false
-			},
 			"extensions": [
 				"vmware.vscode-boot-dev-pack",
 				"naco-siren.gradle-language",
